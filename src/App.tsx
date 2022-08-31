@@ -3,8 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
-  console.log('a');
-  console.log('test lint error');
+  console.log('test lint error2');
   return (
     <div className="App">
       <header className="App-header">
